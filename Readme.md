@@ -17,3 +17,5 @@ lærte om switch og bool i dag så måtte google meg frem til date and time men 
 men addet mine egne ting etc og skrev i blinde etter jeg leste.
 så etter jeg var ferdig keywordsene jeg trenger sto fakisk i oppgave texten så gjorde det vanskligere for meg selv men kom i mål til slut. Time used 55 mins ish.
 
+Prøv og skriv denne om til og bruke dictonary list type for self challange.
+

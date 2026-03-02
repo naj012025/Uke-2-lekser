@@ -9,7 +9,8 @@ class Program
         DateTime Now = DateTime.Now;
         int time = Now.Hour;
         Console.WriteLine("Hello user please enter your name: ");
-        string? username =  Console.ReadLine();// runs men får warning og spør ikke brukere om navn.
+        string? username =  Console.ReadLine();// runs men får warning og spør ikke brukere om navn. fikk beskjet at man kan bruke var 
+        // får og få vekk warning.
         Console.Clear();
         Console.WriteLine($"Hello {username}\n The Date and time is {Now}");
             // husk at <= betyr mindre eller equal for exempel 10. 
